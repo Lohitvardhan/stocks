@@ -5,6 +5,6 @@ Initially we have created a machine learning model and predicting the prices of 
 ,improve the accuracy of the model using  testing engines.
 # setup
 please install:
-   . jupyter notebook
-   . python IDLE
-   . pandas, scikit-learn, yfinance
+     jupyter notebook
+     python IDLE
+     pandas, scikit-learn, yfinance
